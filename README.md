@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently working on **Blood Donation Management System**
+- 🌱 I’m currently working on **Job Management System**
 - 💻 Tech Stack: React, Node.js, Express, MySQL (Sequelize)
 - 🔐 Interested in Backend & Authentication Systems
 - 📫 Reach me at: **achy93858@gmail.com**
