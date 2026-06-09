@@ -7,14 +7,6 @@
 
 ---
 
-### About Me
-- I’m currently working on **Job Management System**
-- Tech Stack: React, Node.js, Express, MySQL (Sequelize)
-- Interested in Backend & Authentication Systems
-- Reach me at: **achy93858@gmail.com**
-
----
-
 ### Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,js,html,css,git" />
