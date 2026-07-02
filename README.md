@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center"> I am Full Stack Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;React+%7C+Node+%7C+MySQL;Building+Real+World+Projects;Always+Learning+New+Things" />
