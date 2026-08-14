@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | BSc (Hons) Computing Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MySQL;Building+Real-World+Web+Applications;Learning+%26+Growing+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDb;Building+Real-World+Web+Applications;Learning+%26+Growing+Every+Day" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/AYUSH12-byte"><img src="https://img.shields.io/github/followers/AYUSH12-byte?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers"></a>
