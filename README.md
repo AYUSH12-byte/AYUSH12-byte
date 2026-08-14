@@ -62,20 +62,6 @@
 
 ---
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/AYUSH12-byte">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 ### 💡 Build. Learn. Improve. Repeat. 🚀
 
 <img src="https://komarev.com/ghpvc/?username=AYUSH12-byte&style=for-the-badge" alt="Profile views" />
