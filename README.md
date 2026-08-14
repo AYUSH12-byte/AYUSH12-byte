@@ -43,16 +43,13 @@
 
 ---
 
-## 🚀 What I Build
+## 🔥 GitHub Streak
 
-```text
-Frontend        → React.js + Vite + Tailwind CSS / Bootstrap
-Backend         → Node.js + Express.js
-Database        → MySQL + Sequelize ORM
-Authentication  → JWT + Role-Based Authorization
-Architecture    → MVC + REST API
-Tools           → Git + GitHub + Postman + VS Code
-```
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AYUSH12-byte&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
 
 ---
 
