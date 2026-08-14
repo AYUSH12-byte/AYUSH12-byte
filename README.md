@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Aayush Chaudhari
 
-### Full Stack Developer | MERN Stack Intern | BSc (Hons) Computing Student
+### Full Stack Developer | BSc (Hons) Computing Student
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MySQL;Building+Real-World+Web+Applications;Learning+%26+Growing+Every+Day" alt="Typing SVG" />
 
@@ -17,12 +17,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying **BSc (Hons) Computing**
-- 💻 Working as a **MERN Stack Intern**
-- 🚀 Interested in building practical, user-focused web applications
-- 🧩 Enjoy working on both frontend and backend systems
-- 🗄️ Currently working with **MySQL, Sequelize and REST APIs**
-- 🌱 Always learning new technologies and improving my problem-solving skills
+- Studying **BSc (Hons) Computing**
+- Working as a **MERN Stack Intern**
+- Interested in building practical, user-focused web applications
+- Enjoy working on both frontend and backend systems
+- Always learning new technologies and improving my problem-solving skills
 
 ---
 
