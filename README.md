@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Aayush Chaudhari
+# Hi, I'm Aayush Chaudhari
 
 ### Full Stack Developer | BSc (Hons) Computing Student
 
@@ -46,10 +46,9 @@
 
 <div align="center">
 
-<img src="./profile/streak.svg" alt="GitHub streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=manoj-katuwal&theme=radical&hide_border=true&background=2e3440)
 
 </div>
-
 ---
 
 ## 📈 GitHub Activity
@@ -62,7 +61,7 @@
 
 ---
 
-### 💡 Build. Learn. Improve. Repeat. 🚀
+### 💡 Build. Learn. Improve. Repeat. 
 
 <img src="https://komarev.com/ghpvc/?username=AYUSH12-byte&style=for-the-badge" alt="Profile views" />
 
