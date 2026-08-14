@@ -56,36 +56,7 @@ Tools           → Git + GitHub + Postman + VS Code
 
 ---
 
-## 📌 Featured Projects
-
-### 🩸 Blood Donation Management System
-A role-based web application for managing donors, receivers, blood stock, donation requests and hospitals/blood banks.
-
-**React • Node.js • Express • MySQL • Sequelize • JWT**
-
-### 🎓 Student Fee Management System
-A school fee management system for handling student profiles, fee structures, payments, outstanding balances and downloadable receipts.
-
-**React • Node.js • Express • Database • JWT**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AYUSH12-byte&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aayush's GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSH12-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AYUSH12-byte&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
+## 📈 GitHub Activity
 
 <div align="center">
 
@@ -111,6 +82,6 @@ A school fee management system for handling student profiles, fee structures, pa
 
 ### 💡 Build. Learn. Improve. Repeat. 🚀
 
-<img src="https://komarev.com/ghpvc/?username=AYUSH12-byte&style=for-the-badge&color=00F7FF" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=AYUSH12-byte&style=for-the-badge" alt="Profile views" />
 
 </div>
