@@ -33,7 +33,7 @@
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" alt="Frontend technologies" />
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sequelize" alt="Backend and database technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and database technologies" />
 
 ### Tools & Workflow
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Development tools" />
@@ -46,9 +46,10 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=manoj-katuwal&theme=radical&hide_border=true&background=2e3440)
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=AYUSH12-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
 ---
 
 ## 📈 GitHub Activity
@@ -61,8 +62,8 @@
 
 ---
 
-### 💡 Build. Learn. Improve. Repeat. 
+### 💡 Build. Learn. Improve. Repeat.
 
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=AYUSH12-byte&style=for-the-badge" alt="Profile views" />
-
 </div>
