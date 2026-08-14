@@ -60,10 +60,3 @@
 
 </div>
 
----
-
-### 💡 Build. Learn. Improve. Repeat.
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=AYUSH12-byte&style=for-the-badge" alt="Profile views" />
-</div>
