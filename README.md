@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AYUSH12-byte&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="./profile/streak.svg" alt="GitHub streak" />
 
 </div>
 
