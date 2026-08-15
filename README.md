@@ -50,13 +50,3 @@
 
 </div>
 
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AYUSH12-byte&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph" />
-
-</div>
-
