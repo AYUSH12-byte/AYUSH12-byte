@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="profile/activity.svg" alt="GitHub contribution activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AYUSH12-byte&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph" />
 
 </div>
 
