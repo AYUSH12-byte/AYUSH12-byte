@@ -1,0 +1,84 @@
+name: Update GitHub Activity
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate contribution activity SVG
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          python - <<'PY'
+          import json, os, subprocess
+          from datetime import date, timedelta
+
+          query = '''query($login:String!){user(login:$login){contributionsCollection{contributionCalendar{weeks{contributionDays{date contributionCount}}}}}}'''
+          payload = json.dumps({"query": query, "variables": {"login": os.environ["USERNAME"]}})
+          result = subprocess.check_output([
+              "curl", "-s", "-H", f"Authorization: bearer {os.environ['GH_TOKEN']}",
+              "-H", "Content-Type: application/json", "-d", payload,
+              "https://api.github.com/graphql"
+          ])
+          data = json.loads(result)
+          days = [d for w in data["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"] for d in w["contributionDays"]]
+          counts = {d["date"]: d["contributionCount"] for d in days}
+
+          end = date.today()
+          start = end - timedelta(days=364)
+          days = [(start + timedelta(days=i)) for i in range(365)]
+
+          # Build a compact contribution heatmap: 53 columns x 7 rows.
+          width, height = 760, 180
+          left, top = 35, 42
+          cell, gap = 10, 3
+          max_count = max(counts.get(str(d), 0) for d in days) or 1
+
+          def level(n):
+              if n == 0: return "#161b22"
+              if n <= max_count * 0.25: return "#0e4429"
+              if n <= max_count * 0.5: return "#006d32"
+              if n <= max_count * 0.75: return "#26a641"
+              return "#39d353"
+
+          svg = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">']
+          svg.append('<rect width="100%" height="100%" rx="12" fill="#0d1117"/>')
+          svg.append('<text x="20" y="28" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="18" font-weight="700">GitHub Activity</text>')
+
+          first_weekday = start.weekday()
+          for i, d in enumerate(days):
+              pos = first_weekday + i
+              col = pos // 7
+              row = pos % 7
+              x = left + col * (cell + gap)
+              y = top + row * (cell + gap)
+              n = counts.get(str(d), 0)
+              svg.append(f'<rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="2" fill="{level(n)}"><title>{d}: {n} contributions</title></rect>')
+
+          svg.append('<text x="20" y="166" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Less</text>')
+          for i, c in enumerate(["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]):
+              svg.append(f'<rect x="52" y="157" width="10" height="10" rx="2" fill="{c}"/>')
+          svg.append('<text x="120" y="166" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">More</text>')
+          svg.append('</svg>')
+
+          os.makedirs("profile", exist_ok=True)
+          open("profile/activity.svg", "w", encoding="utf-8").write("".join(svg))
+          PY
+
+      - name: Commit activity stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/activity.svg
+          git commit -m "Update GitHub activity stats" || exit 0
+          git push
