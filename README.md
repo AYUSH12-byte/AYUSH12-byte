@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=AYUSH12-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="profile/streak.svg" alt="GitHub Streak" />
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AYUSH12-byte&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph" />
+<img src="profile/activity.svg" alt="GitHub contribution activity" />
 
 </div>
 
