@@ -18,7 +18,6 @@
 ## 👨‍💻 About Me
 
 - Studying **BSc (Hons) Computing**
-- Working as a **MERN Stack Intern**
 - Interested in building practical, user-focused web applications
 - Enjoy working on both frontend and backend systems
 - Always learning new technologies and improving my problem-solving skills
