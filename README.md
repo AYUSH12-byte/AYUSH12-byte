@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="profile/streak.svg" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AYUSH12-byte&theme=tokyonight&hide_border=true)
 
 </div>
 
