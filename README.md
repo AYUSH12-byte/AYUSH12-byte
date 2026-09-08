@@ -81,7 +81,7 @@ Architecture    → MVC, REST, API Integration, Database Design
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AYUSH12-byte/AYUSH12-byte/main/metrics.activity.svg" alt="GitHub activity graph" />
+<img src="https://ghchart.rshah.org/58a6ff/AYUSH12-byte" alt="GitHub contribution activity" />
 
 </div>
 
