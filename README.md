@@ -95,7 +95,7 @@ Architecture    → MVC, REST, API Integration, Database Design
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AYUSH12-byte/AYUSH12-byte/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+<img src="https://raw.githubusercontent.com/AYUSH12-byte/AYUSH12-byte/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 
 </div>
 
