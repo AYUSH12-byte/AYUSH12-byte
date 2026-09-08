@@ -1,32 +1,32 @@
-# 🚀 WHO THE HELL IS AYUSH CHAUDHARI ??
+# 🚀 आखिर हम के हईं — AYUSH CHAUDHARI ??
 
 ---
 
 <div align="center">
 
-### 👨‍💻 Full Stack Developer from Nepal 🇳🇵
+### 👨‍💻 नेपाल के Full Stack Developer 🇳🇵
 
-💡 Turning ideas into real-world software solutions
+💡 विचार के असली software solution में बदले के कोशिश करत बानी
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express.js;Django+%7C+Python+%7C+MySQL;Building+Projects+Everyday;Code.+Build.+Break.+Fix.+Learn.+Repeat." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express.js;Django+%7C+Python+%7C+MySQL;हर+दिन+नया+Project+बना+रहल+बानी;Code.+Build.+Break.+Fix.+Learn.+Repeat." />
 
 </div>
 
 ---
 
-# 🧑‍💻 About Me
+# 🧑‍💻 हमरा बारे में
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-### 👋 Hey, I'm Ayush!
+### 👋 नमस्कार, हम Ayush हईं!
 
-🎓 **BSc (Hons) Computing Student**  
+🎓 **BSc (Hons) Computing के Student**  
 💻 **Full Stack Developer**  
-🇳🇵 **From Nepal**
+🇳🇵 **नेपाल से**
 
-I enjoy building practical web applications, learning new technologies, and turning ideas into working software.
+हम practical web applications बनावे, नया technology सीखे आ अपना idea के काम करे वाला software में बदले में रुचि रखिले।
 
 ```python
 class AyushChaudhari:
@@ -40,7 +40,7 @@ class AyushChaudhari:
         "MongoDB & MySQL"
     ]
 
-    goal = "Build scalable software"
+    goal = "Scalable software बनावल"
 
     def mantra(self):
         return "Code. Build. Learn. Repeat."
@@ -54,11 +54,11 @@ class AyushChaudhari:
 
 <br><br>
 
-### ⚡ Currently Building
+### ⚡ अभी का बना रहल बानी
 
 🚀 Full Stack Projects  
-🔐 REST APIs & Authentication  
-🗄️ Database-driven Applications  
+🔐 REST APIs आ Authentication  
+🗄️ Database वाला Applications  
 🎨 Modern React Interfaces
 
 </td>
@@ -67,7 +67,7 @@ class AyushChaudhari:
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ हमरा Tech Stack
 
 <div align="center">
 
@@ -75,11 +75,11 @@ class AyushChaudhari:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" alt="Frontend technologies" />
 
-### Backend & Database
+### Backend आ Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,mysql" alt="Backend and database technologies" />
 
-### Tools
+### Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Development tools" />
 
@@ -87,7 +87,7 @@ class AyushChaudhari:
 
 ---
 
-# 🧩 What I Work With
+# 🧩 हम का-करीं
 
 ```text
 Frontend        → React, JavaScript, Vite, Tailwind CSS
@@ -100,41 +100,41 @@ Architecture    → MVC, REST, API Integration, Database Design
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 हमरा खास Projects
 
 ### 🩸 Blood Bank System
-Full-stack blood donation management application for managing donors, receivers, blood stock and donation requests.
+Blood donation management application, जवना से donor, receiver, blood stock आ donation request के manage कइल जा सकेला।
 
 ### 💳 Digital Khata
-Digital credit/khata system for local shops to manage customers, udhar transactions, payments, reminders and receipts.
+Local shop खातिर digital उधार/खाता system, जवना में customer, उधार transaction, payment, reminder आ receipt manage कइल जा सकेला।
 
 ### 🎙️ Nepali Voice Assistant
-Nepali-language voice assistant focused on speech-to-text, command understanding and voice responses.
+Nepali भाषा पर आधारित voice assistant, जे speech-to-text, command समझे आ voice response देवे पर focus करेला।
 
 ### 🏋️ Gym Membership Management
-Gym management project covering members, trainers, memberships, attendance and payments.
+Gym के member, trainer, membership, attendance आ payment manage करे वाला project।
 
 ### 🛒 E-commerce Website
-Responsive e-commerce application built while exploring modern frontend development and product-based interfaces.
+Modern frontend development आ product-based interface सीखे खातिर बनावल responsive e-commerce application।
 
 ---
 
-# 🎯 Current Focus
+# 🎯 अभी के Focus
 
-> Building stronger full-stack applications with better architecture, cleaner APIs, reliable databases, and polished user experiences.
+> बेहतर architecture, साफ-सुथरा API, भरोसेमंद database आ बढ़िया user experience वाला मजबूत full-stack applications बनावे पर focus बा।
 
-**Learning & Improving**
+**सीखत आ Improve करत बानी**
 
-- 🚀 Advanced React & frontend architecture
-- ⚙️ Django & Python backend development
-- 🗄️ Database design and optimization
-- 🔐 Secure authentication and authorization
-- 🧱 REST API architecture and system design
-- 🔄 Git workflows and professional development practices
+- 🚀 Advanced React आ frontend architecture
+- ⚙️ Django आ Python backend development
+- 🗄️ Database design आ optimization
+- 🔐 Secure authentication आ authorization
+- 🧱 REST API architecture आ system design
+- 🔄 Git workflow आ professional development practices
 
 ---
 
-# 🔥 Coding Journey
+# 🔥 Coding के सफर
 
 <div align="center">
 
@@ -144,7 +144,7 @@ Responsive e-commerce application built while exploring modern frontend developm
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub पर गतिविधि
 
 <div align="center">
 
@@ -164,11 +164,11 @@ Responsive e-commerce application built while exploring modern frontend developm
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 जुड़ल चाहत बानी
 
 <div align="center">
 
-### `Build. Learn. Improve. Repeat.`
+### `बनाईं. सीखी. सुधारल जाईं. फेर दोहराईं.`
 
 <a href="https://github.com/AYUSH12-byte">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -180,9 +180,9 @@ Responsive e-commerce application built while exploring modern frontend developm
 
 <div align="center">
 
-## 💙 Thanks for visiting my profile!
+## 💙 हमरा Profile पर आवे खातिर धन्यवाद!
 
-### ⭐ Star your favorite repositories if you find them useful ⭐
+### ⭐ पसंद आवे वाला repository के Star जरूर करीं ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=120&section=footer"/>
 
