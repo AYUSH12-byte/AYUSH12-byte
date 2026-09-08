@@ -60,18 +60,6 @@ I build practical, user-focused web applications and enjoy turning ideas into re
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| 🩸 **Blood Bank System** | Platform for managing blood donors, receivers, blood stock, and donation requests | React, Node.js, Express, MySQL |
-| 🗣️ **Nepali Voice Assistant** | Voice-based assistant focused on Nepali speech interaction and commands | React, APIs, Speech Technologies |
-| 💰 **Digital Khata** | Digital solution for managing customer credit, payments, reminders, and transaction history | React, Node.js, Express, MongoDB |
-| 🏋️ **Gym Membership Management** | System for managing members, trainers, memberships, attendance, and payments | React, Django, Database |
-| 💼 **RojgarSetu** | Job-oriented web platform designed to connect users with employment opportunities | Full-Stack Web Technologies |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
