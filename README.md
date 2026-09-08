@@ -1,32 +1,32 @@
-# 🚀 आखिर हम कोन हईं — AYUSH CHAUDHARI ??
+# 🚀 WHO THE HELL IS AYUSH CHAUDHARI ??
 
 ---
 
 <div align="center">
 
-### 👨‍💻 नेपालके Full Stack Developer 🇳🇵
+### 👨‍💻 Full Stack Developer from Nepal 🇳🇵
 
-💡 अपन idea के असली software solution में बदले के काम करठी
+💡 Turning ideas into real-world software solutions
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express.js;Django+%7C+Python+%7C+MySQL;हर+दिन+नवा+Project+बनावठी;Code.+Build.+Break.+Fix.+Learn.+Repeat." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express.js;Django+%7C+Python+%7C+MySQL;Building+Projects+Everyday;Code.+Build.+Break.+Fix.+Learn.+Repeat." />
 
 </div>
 
 ---
 
-# 🧑‍💻 हमर बारे में
+# 🧑‍💻 About Me
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-### 👋 नमस्कार, हम Ayush हईं!
+### 👋 Hey, I'm Ayush!
 
-🎓 **BSc (Hons) Computing के Student**  
+🎓 **BSc (Hons) Computing Student**  
 💻 **Full Stack Developer**  
-🇳🇵 **नेपाल से**
+🇳🇵 **From Nepal**
 
-हम practical web applications बनावे, नवा technology सीखे आ अपन idea के काम करे वाला software में बदले में रुचि रखठी।
+I enjoy building practical web applications, learning new technologies, and turning ideas into useful software.
 
 ```python
 class AyushChaudhari:
@@ -40,7 +40,7 @@ class AyushChaudhari:
         "MongoDB & MySQL"
     ]
 
-    goal = "Scalable software बनावे"
+    goal = "Build scalable software"
 
     def mantra(self):
         return "Code. Build. Learn. Repeat."
@@ -54,11 +54,11 @@ class AyushChaudhari:
 
 <br><br>
 
-### ⚡ अभी का बनावठी
+### ⚡ Currently Building
 
 🚀 Full Stack Projects  
-🔐 REST APIs आ Authentication  
-🗄️ Database वाला Applications  
+🔐 REST APIs & Authentication  
+🗄️ Database-driven Applications  
 🎨 Modern React Interfaces
 
 </td>
@@ -67,7 +67,7 @@ class AyushChaudhari:
 
 ---
 
-# ⚡ हमर Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
@@ -75,7 +75,7 @@ class AyushChaudhari:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" alt="Frontend technologies" />
 
-### Backend आ Database
+### Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,mysql" alt="Backend and database technologies" />
 
@@ -87,7 +87,7 @@ class AyushChaudhari:
 
 ---
 
-# 🧩 हम का करठी
+# 🧩 What I Work With
 
 ```text
 Frontend        → React, JavaScript, Vite, Tailwind CSS
@@ -100,41 +100,41 @@ Architecture    → MVC, REST, API Integration, Database Design
 
 ---
 
-# 🚀 हमर खास Projects
+# 🚀 Featured Projects
 
 ### 🩸 Blood Bank System
-Blood donation management application, जेकरा से donor, receiver, blood stock आ donation request के manage करल जा सकेला।
+Full-stack blood donation management application for managing donors, receivers, blood stock, and donation requests.
 
 ### 💳 Digital Khata
-Local shop खातिर digital उधार/खाता system, जेमें customer, उधार transaction, payment, reminder आ receipt manage करल जा सकेला।
+Digital credit and khata system for local shops to manage customers, credit transactions, payments, reminders, and receipts.
 
 ### 🎙️ Nepali Voice Assistant
-Nepali भाषा पर आधारित voice assistant, जे speech-to-text, command समझे आ voice response देवे पर focus करेला।
+Nepali-language voice assistant focused on speech-to-text, command understanding, and voice responses.
 
 ### 🏋️ Gym Membership Management
-Gym के member, trainer, membership, attendance आ payment manage करे वाला project।
+Gym management project covering members, trainers, memberships, attendance, and payments.
 
 ### 🛒 E-commerce Website
-Modern frontend development आ product-based interface सीखे खातिर बनावल responsive e-commerce application।
+Responsive e-commerce application built while exploring modern frontend development and product-based interfaces.
 
 ---
 
-# 🎯 अभी के Focus
+# 🎯 Current Focus
 
-> बेहतर architecture, साफ API, भरोसेमंद database आ बढ़िया user experience वाला मजबूत full-stack applications बनावे पर हमर focus बा।
+> Building stronger full-stack applications with better architecture, cleaner APIs, reliable databases, and polished user experiences.
 
-**सीखठी आ Improve करठी**
+**Learning & Improving**
 
-- 🚀 Advanced React आ frontend architecture
-- ⚙️ Django आ Python backend development
-- 🗄️ Database design आ optimization
-- 🔐 Secure authentication आ authorization
-- 🧱 REST API architecture आ system design
-- 🔄 Git workflow आ professional development practices
+- 🚀 Advanced React & frontend architecture
+- ⚙️ Django & Python backend development
+- 🗄️ Database design & optimization
+- 🔐 Secure authentication & authorization
+- 🧱 REST API architecture & system design
+- 🔄 Git workflows & professional development practices
 
 ---
 
-# 🔥 Coding के सफर
+# 🔥 Coding Journey
 
 <div align="center">
 
@@ -144,7 +144,7 @@ Modern frontend development आ product-based interface सीखे खात�
 
 ---
 
-# 📊 GitHub पर गतिविधि
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -164,11 +164,11 @@ Modern frontend development आ product-based interface सीखे खात�
 
 ---
 
-# 🤝 जुड़ल चाहठी
+# 🤝 Let's Connect
 
 <div align="center">
 
-### `बनाईं. सीखी. सुधारत जाईं. फेर दोहराईं.`
+### `Build. Learn. Improve. Repeat.`
 
 <a href="https://github.com/AYUSH12-byte">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -180,9 +180,9 @@ Modern frontend development आ product-based interface सीखे खात�
 
 <div align="center">
 
-## 💙 हमर Profile पर आवे खातिर धन्यवाद!
+## 💙 Thanks for visiting my profile!
 
-### ⭐ पसंद आवे वाला repository के Star जरूर करीं ⭐
+### ⭐ Star your favorite repositories if you find them useful ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=120&section=footer"/>
 
