@@ -1,85 +1,47 @@
-# 🚀 WHO THE HELL IS AYUSH CHAUDHARI ??
-
----
-
 <div align="center">
 
-### 👨‍💻 Full Stack Developer from Nepal 🇳🇵
+**Full-Stack Developer**
 
-💡 Turning ideas into real-world software solutions
+Building clean, practical web applications and learning by turning ideas into working software.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express.js;Django+%7C+Python+%7C+MySQL;Building+Projects+Everyday;Code.+Build.+Break.+Fix.+Learn.+Repeat." />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=AYUSH12-byte&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/AYUSH12-byte?tab=followers"><img src="https://img.shields.io/github/followers/AYUSH12-byte?style=for-the-badge&logo=github&label=Followers" alt="Followers" /></a>
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+Express;Django+%7C+Python+%7C+MySQL;APIs+%7C+Databases+%7C+System+Design;Build+%E2%80%A2+Learn+%E2%80%A2+Improve" alt="Typing animation" />
 
 </div>
 
 ---
 
-# 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="58%" valign="top">
+I'm a **BSc (Hons) Computing** student focused on full-stack development. I enjoy building systems that solve real problems, from authentication and REST APIs to database design and responsive interfaces.
 
-### 👋 Hey, I'm Ayush!
-
-🎓 **BSc (Hons) Computing Student**  
-💻 **Full Stack Developer**  
-🇳🇵 **From Nepal**
-
-I enjoy building practical web applications, learning new technologies, and turning ideas into useful software.
-
-```python
-class AyushChaudhari:
-
-    role = "Full Stack Developer"
-
-    focus = [
-        "React.js",
-        "Node.js & Express",
-        "Django & Python",
-        "MongoDB & MySQL"
-    ]
-
-    goal = "Build scalable software"
-
-    def mantra(self):
-        return "Code. Build. Learn. Repeat."
-```
-
-</td>
-
-<td width="42%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
-
-<br><br>
-
-### ⚡ Currently Building
-
-🚀 Full Stack Projects  
-🔐 REST APIs & Authentication  
-🗄️ Database-driven Applications  
-🎨 Modern React Interfaces
-
-</td>
-</tr>
-</table>
+- 🎓 BSc (Hons) Computing student
+- 💻 Focused on full-stack web development
+- ⚛️ Building with React and modern frontend tools
+- ⚙️ Developing REST APIs with Node.js, Express, Django
+- 🗄️ Working with MongoDB and MySQL
+- 🔐 Interested in authentication, authorization and secure APIs
+- 🧠 Continuously improving software architecture and problem-solving skills
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" alt="Frontend stack" />
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,mysql" alt="Backend and database technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,mysql" alt="Backend and database stack" />
 
-### Development Tools
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Development tools" />
 
@@ -87,11 +49,11 @@ class AyushChaudhari:
 
 ---
 
-# 🧩 What I Work With
+## 🧩 What I Work With
 
 ```text
 Frontend        → React, JavaScript, Vite, Tailwind CSS
-Backend         → Node.js, Express.js, Django, REST APIs
+Backend         → Node.js, Express, Django, REST APIs
 Database        → MongoDB, MySQL
 Authentication  → JWT, Role-Based Access Control
 Development     → Git, GitHub, Postman, VS Code
@@ -100,26 +62,7 @@ Architecture    → MVC, REST, API Integration, Database Design
 
 ---
 
-# 🚀 Featured Projects
-
-### 🩸 Blood Bank System
-Full-stack blood donation management application for managing donors, receivers, blood stock, and donation requests.
-
-### 💳 Digital Khata
-Digital credit and khata system for local shops to manage customers, credit transactions, payments, reminders, and receipts.
-
-### 🎙️ Nepali Voice Assistant
-Nepali-language voice assistant focused on speech-to-text, command understanding, and voice responses.
-
-### 🏋️ Gym Membership Management
-Gym management project covering members, trainers, memberships, attendance, and payments.
-
-### 🛒 E-commerce Website
-Responsive e-commerce application built while exploring modern frontend development and product-based interfaces.
-
----
-
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 > Building stronger full-stack applications with better architecture, cleaner APIs, reliable databases, and polished user experiences.
 
@@ -127,34 +70,24 @@ Responsive e-commerce application built while exploring modern frontend developm
 
 - 🚀 Advanced React & frontend architecture
 - ⚙️ Django & Python backend development
-- 🗄️ Database design & optimization
-- 🔐 Secure authentication & authorization
-- 🧱 REST API architecture & system design
-- 🔄 Git workflows & professional development practices
+- 🗄️ Database design and optimization
+- 🔐 Secure authentication and authorization
+- 🧱 REST API architecture and system design
+- 🔄 Git workflows and professional development practices
 
 ---
 
-# 🔥 Coding Journey
+## 📈 GitHub Activity
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AYUSH12-byte&theme=radical&hide_border=true&background=2e3440)
+<img src="https://ghchart.rshah.org/58a6ff/AYUSH12-byte" alt="GitHub contribution activity" />
 
 </div>
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AYUSH12-byte&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -164,26 +97,10 @@ Responsive e-commerce application built while exploring modern frontend developm
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
 ### `Build. Learn. Improve. Repeat.`
-
-<a href="https://github.com/AYUSH12-byte">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 💙 Thanks for visiting my profile!
-
-### ⭐ Star your favorite repositories if you find them useful ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=120&section=footer"/>
 
 </div>
