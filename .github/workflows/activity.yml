@@ -1,0 +1,27 @@
+name: Generate GitHub Activity Graph
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate activity graph
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: AYUSH12-byte
+          template: classic
+          config_timezone: Asia/Kathmandu
+          filename: metrics.activity.svg
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 12
+          plugin_activity_days: 30
+          plugin_activity_visibility: all
