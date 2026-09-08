@@ -1,45 +1,73 @@
+# 🚀 WHO THE HELL IS AYUSH CHAUDHARI ??
+
+---
+
 <div align="center">
 
-**Full-Stack Developer**
+### 👨‍💻 Full Stack Developer from Nepal 🇳🇵
 
-Building clean, practical web applications and learning by turning ideas into working software.
+💡 Turning ideas into real-world software solutions
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=AYUSH12-byte&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/AYUSH12-byte?tab=followers"><img src="https://img.shields.io/github/followers/AYUSH12-byte?style=for-the-badge&logo=github&label=Followers" alt="Followers" /></a>
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+Express;Django+%7C+Python+%7C+MySQL;APIs+%7C+Databases+%7C+System+Design;Build+%E2%80%A2+Learn+%E2%80%A2+Improve" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express.js;Django+%7C+Python+%7C+MySQL;Building+Projects+Everyday;Code.+Build.+Break.+Fix.+Learn.+Repeat." />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 🧑‍💻 About Me
 
-I'm a **BSc (Hons) Computing** student focused on full-stack development. I enjoy building systems that solve real problems, from authentication and REST APIs to database design and responsive interfaces.
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 BSc (Hons) Computing student
-- 💻 Focused on full-stack web development
-- ⚛️ Building with React and modern frontend tools
-- ⚙️ Developing REST APIs with Node.js, Express, Django
-- 🗄️ Working with MongoDB and MySQL
-- 🔐 Interested in authentication, authorization and secure APIs
-- 🧠 Continuously improving software architecture and problem-solving skills
+```python
+class AyushChaudhari:
+
+    def __init__(self):
+
+        self.name = "Ayush Chaudhari"
+        self.role = "Full Stack Developer"
+        self.education = "BSc (Hons) Computing Student"
+        self.location = "Nepal 🇳🇵"
+
+        self.current_focus = [
+            "Learning React.js in Depth",
+            "Building Node.js & Express.js APIs",
+            "Learning Django & Python",
+            "Working with MongoDB & MySQL",
+            "Building Real-World Projects",
+        ]
+
+        self.goal = "Build scalable and impactful software"
+
+    def mantra(self):
+        return "Code. Build. Break. Fix. Learn. Repeat."
+
+
+me = AyushChaudhari()
+
+print(me.mantra())
+```
+
+```bash
+$ python ayush.py
+
+Code. Build. Break. Fix. Learn. Repeat.
+```
+
+<br clear="right"/>
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" alt="Frontend stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" alt="Frontend technologies" />
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,mysql" alt="Backend and database stack" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,mysql" alt="Backend and database technologies" />
 
 ### Tools
 
@@ -49,11 +77,11 @@ I'm a **BSc (Hons) Computing** student focused on full-stack development. I enjo
 
 ---
 
-## 🧩 What I Work With
+# 🧩 What I Work With
 
 ```text
 Frontend        → React, JavaScript, Vite, Tailwind CSS
-Backend         → Node.js, Express, Django, REST APIs
+Backend         → Node.js, Express.js, Django, REST APIs
 Database        → MongoDB, MySQL
 Authentication  → JWT, Role-Based Access Control
 Development     → Git, GitHub, Postman, VS Code
@@ -62,7 +90,26 @@ Architecture    → MVC, REST, API Integration, Database Design
 
 ---
 
-## 🎯 Current Focus
+# 🚀 Featured Projects
+
+### 🩸 Blood Bank System
+Full-stack blood donation management application for managing donors, receivers, blood stock and donation requests.
+
+### 💳 Digital Khata
+Digital credit/khata system for local shops to manage customers, udhar transactions, payments, reminders and receipts.
+
+### 🎙️ Nepali Voice Assistant
+Nepali-language voice assistant focused on speech-to-text, command understanding and voice responses.
+
+### 🏋️ Gym Membership Management
+Gym management project covering members, trainers, memberships, attendance and payments.
+
+### 🛒 E-commerce Website
+Responsive e-commerce application built while exploring modern frontend development and product-based interfaces.
+
+---
+
+# 🎯 Current Focus
 
 > Building stronger full-stack applications with better architecture, cleaner APIs, reliable databases, and polished user experiences.
 
@@ -77,17 +124,27 @@ Architecture    → MVC, REST, API Integration, Database Design
 
 ---
 
-## 📈 GitHub Activity
+# 🔥 Coding Journey
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/58a6ff/AYUSH12-byte" alt="GitHub contribution activity" />
+![GitHub Streak](https://streak-stats.demolab.com?user=AYUSH12-byte&theme=radical&hide_border=true&background=2e3440)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AYUSH12-byte&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -97,10 +154,26 @@ Architecture    → MVC, REST, API Integration, Database Design
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
 ### `Build. Learn. Improve. Repeat.`
+
+<a href="https://github.com/AYUSH12-byte">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 Thanks for visiting my profile!
+
+### ⭐ Star your favorite repositories if you find them useful ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=120&section=footer"/>
 
 </div>
