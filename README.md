@@ -1,21 +1,19 @@
 <div align="center">
 
-# Hi, I'm Ayush Chaudhari 👋
+# AYUSH12-byte
 
-### Full-Stack Developer | BSc (Hons) Computing Student
+## Ayush Chaudhari
 
-I build practical, user-focused web applications and enjoy turning ideas into real working products.
+**Full-Stack Developer · BSc (Hons) Computing Student**
+
+Building clean, practical web applications and learning by turning ideas into working software.
 
 <p>
-  <a href="https://github.com/AYUSH12-byte">
-    <img src="https://img.shields.io/github/followers/AYUSH12-byte?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/AYUSH12-byte?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Repositories" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=AYUSH12-byte&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/AYUSH12-byte?tab=followers"><img src="https://img.shields.io/github/followers/AYUSH12-byte?style=for-the-badge&logo=github&label=Followers" alt="Followers" /></a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+Express;Django+%7C+Python+%7C+MySQL;Building+Real-World+Projects;Learning%2C+Building+%26+Improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+Express;Django+%7C+Python+%7C+MySQL;APIs+%7C+Databases+%7C+System+Design;Build+%E2%80%A2+Learn+%E2%80%A2+Improve" alt="Typing animation" />
 
 </div>
 
@@ -23,75 +21,83 @@ I build practical, user-focused web applications and enjoy turning ideas into re
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying **BSc (Hons) Computing**
-- 💻 Interested in **Full-Stack Web Development**
-- 🚀 Building practical projects that solve real-world problems
-- 🧠 Improving my skills in software development, APIs, databases, and system design
-- 🔧 Comfortable working across both frontend and backend development
-- 📚 Always learning new technologies and better development practices
+I'm a **BSc (Hons) Computing** student focused on full-stack development. I enjoy building systems that solve real problems, from authentication and REST APIs to database design and responsive interfaces.
+
+- 🎓 BSc (Hons) Computing student
+- 💻 Focused on full-stack web development
+- ⚛️ Building with React and modern frontend tools
+- ⚙️ Developing REST APIs with Node.js, Express, Django
+- 🗄️ Working with MongoDB and MySQL
+- 🔐 Interested in authentication, authorization and secure APIs
+- 🧠 Continuously improving software architecture and problem-solving skills
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
+
+<div align="center">
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" alt="Frontend technologies" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" alt="Frontend stack" />
 
-### Backend
+### Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" alt="Backend technologies" />
-</p>
-
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database technologies" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,mysql" alt="Backend and database stack" />
 
 ### Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Development tools" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AYUSH12-byte&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayush's GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSH12-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Development tools" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🧩 What I Work With
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=AYUSH12-byte&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
+```text
+Frontend        → React, JavaScript, Vite, Tailwind CSS
+Backend         → Node.js, Express, Django, REST APIs
+Database        → MongoDB, MySQL
+Authentication  → JWT, Role-Based Access Control
+Development     → Git, GitHub, Postman, VS Code
+Architecture    → MVC, REST, API Integration, Database Design
+```
 
 ---
 
 ## 🎯 Current Focus
 
-```text
-Full-Stack Development   ████████████████████  100%
-React & Frontend         ██████████████████░░   90%
-Backend & REST APIs      ██████████████████░░   90%
-Database Design          ████████████████░░░░   80%
-Django & Python          ██████████████░░░░░░   70%
-System Design            █████████████░░░░░░░   65%
-```
+> Building stronger full-stack applications with better architecture, cleaner APIs, reliable databases, and polished user experiences.
+
+**Learning & Improving**
+
+- 🚀 Advanced React & frontend architecture
+- ⚙️ Django & Python backend development
+- 🗄️ Database design and optimization
+- 🔐 Secure authentication and authorization
+- 🧱 REST API architecture and system design
+- 🔄 Git workflows and professional development practices
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AYUSH12-byte&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AYUSH12-byte/AYUSH12-byte/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+
+</div>
 
 ---
 
@@ -109,6 +115,6 @@ System Design            █████████████░░░░░�
 
 <div align="center">
 
-### 💡 Build. Learn. Improve. Repeat.
+### `Build. Learn. Improve. Repeat.`
 
 </div>
