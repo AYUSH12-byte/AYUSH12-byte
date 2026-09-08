@@ -81,7 +81,7 @@ Architecture    → MVC, REST, API Integration, Database Design
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AYUSH12-byte&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
+<img src="https://raw.githubusercontent.com/AYUSH12-byte/AYUSH12-byte/main/metrics.activity.svg" alt="GitHub activity graph" />
 
 </div>
 
