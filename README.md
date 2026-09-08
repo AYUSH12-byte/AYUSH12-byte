@@ -1,6 +1,6 @@
 <div align="center">
 
-**Full-Stack Developer · BSc (Hons) Computing Student**
+**Full-Stack Developer**
 
 Building clean, practical web applications and learning by turning ideas into working software.
 
