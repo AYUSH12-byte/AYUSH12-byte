@@ -16,44 +16,54 @@
 
 # 🧑‍💻 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### 👋 Hey, I'm Ayush!
+
+🎓 **BSc (Hons) Computing Student**  
+💻 **Full Stack Developer**  
+🇳🇵 **From Nepal**
+
+I enjoy building practical web applications, learning new technologies, and turning ideas into working software.
 
 ```python
 class AyushChaudhari:
 
-    def __init__(self):
+    role = "Full Stack Developer"
 
-        self.name = "Ayush Chaudhari"
-        self.role = "Full Stack Developer"
-        self.education = "BSc (Hons) Computing Student"
-        self.location = "Nepal 🇳🇵"
+    focus = [
+        "React.js",
+        "Node.js & Express",
+        "Django & Python",
+        "MongoDB & MySQL"
+    ]
 
-        self.current_focus = [
-            "Learning React.js in Depth",
-            "Building Node.js & Express.js APIs",
-            "Learning Django & Python",
-            "Working with MongoDB & MySQL",
-            "Building Real-World Projects",
-        ]
-
-        self.goal = "Build scalable and impactful software"
+    goal = "Build scalable software"
 
     def mantra(self):
-        return "Code. Build. Break. Fix. Learn. Repeat."
-
-
-me = AyushChaudhari()
-
-print(me.mantra())
+        return "Code. Build. Learn. Repeat."
 ```
 
-```bash
-$ python ayush.py
+</td>
 
-Code. Build. Break. Fix. Learn. Repeat.
-```
+<td width="42%" align="center" valign="middle">
 
-<br clear="right"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
+
+<br><br>
+
+### ⚡ Currently Building
+
+🚀 Full Stack Projects  
+🔐 REST APIs & Authentication  
+🗄️ Database-driven Applications  
+🎨 Modern React Interfaces
+
+</td>
+</tr>
+</table>
 
 ---
 
