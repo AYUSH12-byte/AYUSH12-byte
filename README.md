@@ -1,20 +1,20 @@
-# 🚀 आखिर हम के हईं — AYUSH CHAUDHARI ??
+# 🚀 आखिर हम कोन हईं — AYUSH CHAUDHARI ??
 
 ---
 
 <div align="center">
 
-### 👨‍💻 नेपाल के Full Stack Developer 🇳🇵
+### 👨‍💻 नेपालके Full Stack Developer 🇳🇵
 
-💡 विचार के असली software solution में बदले के कोशिश करत बानी
+💡 अपन idea के असली software solution में बदले के काम करठी
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express.js;Django+%7C+Python+%7C+MySQL;हर+दिन+नया+Project+बना+रहल+बानी;Code.+Build.+Break.+Fix.+Learn.+Repeat." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express.js;Django+%7C+Python+%7C+MySQL;हर+दिन+नवा+Project+बनावठी;Code.+Build.+Break.+Fix.+Learn.+Repeat." />
 
 </div>
 
 ---
 
-# 🧑‍💻 हमरा बारे में
+# 🧑‍💻 हमर बारे में
 
 <table>
 <tr>
@@ -26,7 +26,7 @@
 💻 **Full Stack Developer**  
 🇳🇵 **नेपाल से**
 
-हम practical web applications बनावे, नया technology सीखे आ अपना idea के काम करे वाला software में बदले में रुचि रखिले।
+हम practical web applications बनावे, नवा technology सीखे आ अपन idea के काम करे वाला software में बदले में रुचि रखठी।
 
 ```python
 class AyushChaudhari:
@@ -40,7 +40,7 @@ class AyushChaudhari:
         "MongoDB & MySQL"
     ]
 
-    goal = "Scalable software बनावल"
+    goal = "Scalable software बनावे"
 
     def mantra(self):
         return "Code. Build. Learn. Repeat."
@@ -54,7 +54,7 @@ class AyushChaudhari:
 
 <br><br>
 
-### ⚡ अभी का बना रहल बानी
+### ⚡ अभी का बनावठी
 
 🚀 Full Stack Projects  
 🔐 REST APIs आ Authentication  
@@ -67,7 +67,7 @@ class AyushChaudhari:
 
 ---
 
-# ⚡ हमरा Tech Stack
+# ⚡ हमर Tech Stack
 
 <div align="center">
 
@@ -87,7 +87,7 @@ class AyushChaudhari:
 
 ---
 
-# 🧩 हम का-करीं
+# 🧩 हम का करठी
 
 ```text
 Frontend        → React, JavaScript, Vite, Tailwind CSS
@@ -100,13 +100,13 @@ Architecture    → MVC, REST, API Integration, Database Design
 
 ---
 
-# 🚀 हमरा खास Projects
+# 🚀 हमर खास Projects
 
 ### 🩸 Blood Bank System
-Blood donation management application, जवना से donor, receiver, blood stock आ donation request के manage कइल जा सकेला।
+Blood donation management application, जेकरा से donor, receiver, blood stock आ donation request के manage करल जा सकेला।
 
 ### 💳 Digital Khata
-Local shop खातिर digital उधार/खाता system, जवना में customer, उधार transaction, payment, reminder आ receipt manage कइल जा सकेला।
+Local shop खातिर digital उधार/खाता system, जेमें customer, उधार transaction, payment, reminder आ receipt manage करल जा सकेला।
 
 ### 🎙️ Nepali Voice Assistant
 Nepali भाषा पर आधारित voice assistant, जे speech-to-text, command समझे आ voice response देवे पर focus करेला।
@@ -121,9 +121,9 @@ Modern frontend development आ product-based interface सीखे खात�
 
 # 🎯 अभी के Focus
 
-> बेहतर architecture, साफ-सुथरा API, भरोसेमंद database आ बढ़िया user experience वाला मजबूत full-stack applications बनावे पर focus बा।
+> बेहतर architecture, साफ API, भरोसेमंद database आ बढ़िया user experience वाला मजबूत full-stack applications बनावे पर हमर focus बा।
 
-**सीखत आ Improve करत बानी**
+**सीखठी आ Improve करठी**
 
 - 🚀 Advanced React आ frontend architecture
 - ⚙️ Django आ Python backend development
@@ -164,11 +164,11 @@ Modern frontend development आ product-based interface सीखे खात�
 
 ---
 
-# 🤝 जुड़ल चाहत बानी
+# 🤝 जुड़ल चाहठी
 
 <div align="center">
 
-### `बनाईं. सीखी. सुधारल जाईं. फेर दोहराईं.`
+### `बनाईं. सीखी. सुधारत जाईं. फेर दोहराईं.`
 
 <a href="https://github.com/AYUSH12-byte">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -180,7 +180,7 @@ Modern frontend development आ product-based interface सीखे खात�
 
 <div align="center">
 
-## 💙 हमरा Profile पर आवे खातिर धन्यवाद!
+## 💙 हमर Profile पर आवे खातिर धन्यवाद!
 
 ### ⭐ पसंद आवे वाला repository के Star जरूर करीं ⭐
 
