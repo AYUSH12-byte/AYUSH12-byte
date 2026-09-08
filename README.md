@@ -1,9 +1,5 @@
 <div align="center">
 
-# AYUSH12-byte
-
-## Ayush Chaudhari
-
 **Full-Stack Developer · BSc (Hons) Computing Student**
 
 Building clean, practical web applications and learning by turning ideas into working software.
@@ -102,16 +98,6 @@ Architecture    → MVC, REST, API Integration, Database Design
 ---
 
 ## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/AYUSH12-byte">
-  <img src="https://img.shields.io/badge/GitHub-AYUSH12--byte-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-
-</div>
-
-<br />
 
 <div align="center">
 
