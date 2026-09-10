@@ -76,17 +76,6 @@ Architecture    → MVC, REST, API Integration, Database Design
 - 🔄 Git workflows and professional development practices
 
 ---
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/58a6ff/AYUSH12-byte" alt="GitHub contribution activity" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
